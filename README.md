@@ -1,2 +1,1 @@
-# spring-gumball
-test create gradle.yml
+# spring-gumball ci/cd example
