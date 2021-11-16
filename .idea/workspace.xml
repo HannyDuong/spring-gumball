@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dcb7115-c273-4510-bcc6-ae1884694a2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/all_workflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/build_2.7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/building.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/building_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/create_ingress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/create_release_2.7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/create_service_account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/deploy_fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enable_APIs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fail_2.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gke_cluster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gke_serect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/google_yml.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/google_yml_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ingress_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/owner_permission.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/project_id.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/publish_2.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/publish_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/published_2.7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/release_2.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/release_2.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/releases_2.8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/releases_2.8_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/services.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/services_account_owner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/setup_deploy_succeed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/updated_key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/workloads.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deployment.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20wKHzqOXOhZ315XuUIuVitHjKW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringGumballApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-gumball.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springgumball.SpringGumballApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dcb7115-c273-4510-bcc6-ae1884694a2c" name="Changes" comment="" />
+      <created>1636950126062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636950126062</updated>
+      <workItem from="1636950127497" duration="2598000" />
+      <workItem from="1636997628335" duration="17411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
